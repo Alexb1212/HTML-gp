@@ -7,7 +7,8 @@ h1 {
 }
 
 img {
-  size: 200px 200px;
+  height: 200px;
+  width: 200px;
 }
 
 h2 {
