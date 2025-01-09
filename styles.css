@@ -1,0 +1,19 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color: blue;
+}
+
+img {
+  size: 200px 200px;
+}
+
+h2 {
+  background-color: dodgerblue;
+}
+
+li {
+  font-size: 25px;
+}
